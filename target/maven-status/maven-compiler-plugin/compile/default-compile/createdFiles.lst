@@ -1,0 +1,5 @@
+com\mycompany\os_project\FCFS.class
+com\mycompany\os_project\OS_Project.class
+com\mycompany\os_project\SRT.class
+com\mycompany\os_project\RoundRobin.class
+com\mycompany\os_project\ProcessControlBlock.class
